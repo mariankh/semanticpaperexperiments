@@ -1,0 +1,13 @@
+,genre,Thing,musical artist,sales,Instrumentality103575240,disease,Abstraction100002137
+0,null,null,null,null,null,null,null
+1,2,1,3,null,null,null,null
+2,2,6,4,null,1,null,1
+3,2,8,4,1,null,1,2
+4,null,null,4,null,null,null,null
+5,2,null,4,null,null,null,null
+6,null,null,null,null,null,null,null
+7,1,null,4,null,null,null,1
+8,null,null,3,null,null,null,null
+entities,2,10,4,1,1,1,2
+all,null,null,null,null,null,null,null
+none,null,1,null,null,null,null,null
